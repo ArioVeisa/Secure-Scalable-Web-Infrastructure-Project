@@ -65,7 +65,7 @@ The infrastructure consists of **three primary layers**:
 
 ### 🏗️ Architecture Diagram
 
-![Architecture Diagram]([diagrams/topology.png](https://ibb.co.com/234Q2BSd))  
+![Architecture Diagram](https://ibb.co.com/234Q2BSd)  
 *(Replace this image with your own network diagram, created using draw.io or diagrams.net.)*
 
 ---
